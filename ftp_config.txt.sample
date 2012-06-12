@@ -1,0 +1,5 @@
+NAME="examplerepositoryname"
+USERNAME="ftpusername"
+PASSWORD="ftppassword"
+LIVE_FOLDER="/public_html"
+DEV_FOLDER="/public_html/test"
